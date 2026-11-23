@@ -6,6 +6,7 @@ members = [
   "contracts/crowdpay",
   "contracts/escrow",
   "contracts/fee_registry",
+  "contracts/matching_pool",
   "contracts/migration",
   "contracts/matching_pool",
   "contracts/milestones",
